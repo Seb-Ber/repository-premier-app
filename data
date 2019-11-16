@@ -1,9 +1,15 @@
-{
-    "team": {
-        "fnatic": [
-            {"id": "Fnatic",
-             "logo" : "https://fr.wikipedia.org/wiki/Fichier:Fnatic_Logo.svg"
-            },
-        ]
+[
+    {
+        "id": "Fnatic",
+        "logo" : "https://fr.wikipedia.org/wiki/Fichier:Fnatic_Logo.svg"
+    },
+    {
+        "id": "G2"
     }
-}
+]
+
+
+
+
+
+
