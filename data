@@ -2,6 +2,10 @@
     {
         "id": "Fnatic",
         "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png"
+    },
+    {
+    	"id": "G2 Esports",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png"
     }
 ]
 
