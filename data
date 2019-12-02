@@ -6,6 +6,22 @@
     {
     	"id": "G2 Esports",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png"
+    },
+    {
+    	"id" : "Splyce",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Splyce_Logo.png"
+    },
+    {
+    	"id" : "SKT",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Skt_Logo.png"
+    },
+    {
+    	"id" : "Griffin",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Griffin_Logo.png"
+    },
+    {
+    	"id" : "Damwon",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Logo.png"
     }
 ]
 
