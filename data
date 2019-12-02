@@ -22,7 +22,19 @@
     {
     	"id" : "Damwon",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Logo.png"
-    }
+    },
+    {
+    	"id" : "FunPlus Pheonix",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/FunPlus_Logo.png"
+    },
+    {
+    	"id" : "RNG",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Rng_Logo.png"
+    },
+    {
+    	"id" : "Invictus Gaming",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Invictus_Logo.png"
+    },
 ]
 
 
