@@ -1,39 +1,49 @@
 [
     {
         "id": "Fnatic",
-        "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png"
+        "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png",
+        "seed" : "2nd seed from LEC"
     },
     {
     	"id": "G2 Esports",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png",
+    	"seed" : "LEC Champion"
     },
     {
     	"id" : "Splyce",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Splyce_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Splyce_Logo.png",
+    	"seed" : "3nd seed from LEC"
     },
     {
     	"id" : "SKT",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Skt_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Skt_Logo.png",
+    	"seed" : "LCK Champion"
+
     },
     {
     	"id" : "Griffin",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Griffin_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Griffin_Logo.png",
+    	"seed" : "2nd seed from LCK"
     },
     {
     	"id" : "Damwon",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Logo.png",
+    	"seed" : "3rd seed from LCK"
     },
     {
     	"id" : "FunPlus Pheonix",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/FunPlus_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/FunPlus_Logo.png",
+    	"seed" : "LPL Champion"
     },
     {
     	"id" : "RNG",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Rng_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Rng_Logo.png",
+    	"seed" : "2nd seed from LPL"
     },
     {
     	"id" : "Invictus Gaming",
-    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Invictus_Logo.png"
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Invictus_Logo.png",
+    	"seed" : "3rd seed from LPL"
     }
 ]
 
