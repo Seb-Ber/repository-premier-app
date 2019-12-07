@@ -1,13 +1,13 @@
 [
     {
-        "id": "Fnatic",
-        "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png",
-        "seed" : "2nd seed from LEC"
-    },
-    {
     	"id": "G2 Esports",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png",
     	"seed" : "LEC Champion"
+    },
+    {
+        "id": "Fnatic",
+        "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png",
+        "seed" : "2nd seed from LEC"
     },
     {
     	"id" : "Splyce",
@@ -44,6 +44,41 @@
     	"id" : "Invictus Gaming",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Invictus_Logo.png",
     	"seed" : "3rd seed from LPL"
+    },
+    {
+    	"id" : "Team Liquid",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Liquid_Logo.png",
+    	"seed" : "LCS Champion"
+    },
+    {
+    	"id" : "Cloud 9",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/C9_Logo.png",
+    	"seed" : "2nd seed from LCS"
+    },
+    {
+    	"id" : "Clutch Gaming",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Clutch_Logo.png",
+    	"seed" : "3rd seed from LCS"
+    },
+    {
+    	"id" : "J Team",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/J_Logo.png",
+    	"seed" : "LMS Champion"
+    },
+    {
+    	"id" : "AHQ",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/AHQ_Logo.png",
+    	"seed" : "2nd seed from LMS"
+    },
+    {
+    	"id" : "Hong Kong Attitude",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/HKA_Logo.png",
+    	"seed" : "3rd seed from LMS"
+    },
+    {
+    	"id" : "GAM",
+    	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/GAM_Logo.png",
+    	"seed" : "VCS Champion"
     }
 ]
 
