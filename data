@@ -2,84 +2,115 @@
     {
     	"id": "G2 Esports",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/g2.png",
-    	"seed" : "LEC Champion"
+    	"seed" : "LEC Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/G2_Team.png",
+        "player" : "Top : Wunder\nJungle : Jankos\nMid : Caps\nADC : Perkz\nSupport : Mikyx"
     },
     {
         "id": "Fnatic",
         "logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Logo.png",
         "seed" : "2nd seed from LEC",
-        "team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Team.png"
+        "team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Fnatic_Team.png",
+        "player" : "Top : \nJungle : \nMid : \nADC : \nSupport : "
     },
     {
     	"id" : "Splyce",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Splyce_Logo.png",
-    	"seed" : "3nd seed from LEC"
+    	"seed" : "3nd seed from LEC",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Splyce_Team.png",
+        "player" : "Top : Vizicsacsi\nJungle : Xerxe\nMid : Humanoid\nADC : Kobbe\nSupport : Norskeren"
     },
     {
     	"id" : "SKT",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Skt_Logo.png",
-    	"seed" : "LCK Champion"
+    	"seed" : "LCK Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/SKT_Team.png",
+        "player" : "Top : Khan\nJungle : Clid\nMid : Faker\nADC : Teddy\nSupport : Effort"
 
     },
     {
     	"id" : "Griffin",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Griffin_Logo.png",
-    	"seed" : "2nd seed from LCK"
+    	"seed" : "2nd seed from LCK",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Griffin_Team.png",
+        "player" : "Top : Sword\nJungle : Tarzan\nMid : Chovy\nADC : Viper\nSupport : Lehends"
     },
     {
     	"id" : "Damwon",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Logo.png",
-    	"seed" : "3rd seed from LCK"
+    	"seed" : "3rd seed from LCK",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Damwon_Team.png",
+        "player" : "Top : Nuguri\nJungle : Canyon\nMid : ShowMaker\nADC : Nuclear\nSupport : Beryl"
     },
     {
     	"id" : "FunPlus Pheonix",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/FunPlus_Logo.png",
-    	"seed" : "LPL Champion"
+    	"seed" : "LPL Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/FPX_Team.png",
+        "player" : "Top : Gimgoon\nJungle : Tian\nMid : Boinb\nADC : LWX\nSupport : Crisp"
     },
     {
     	"id" : "RNG",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Rng_Logo.png",
-    	"seed" : "2nd seed from LPL"
+    	"seed" : "2nd seed from LPL",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/RNG_Team.png",
+        "player" : "Top : Langx\nJungle : Karsa\nMid : Xiaohu\nADC : Uzi\nSupport : Ming"
     },
     {
     	"id" : "Invictus Gaming",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Invictus_Logo.png",
-    	"seed" : "3rd seed from LPL"
+    	"seed" : "3rd seed from LPL",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/IG_Team.png",
+        "player" : "Top : TheShy\nJungle : Ning\nMid : Rookie\nADC : JackeyLove\nSupport : Baolan"
     },
     {
     	"id" : "Team Liquid",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Liquid_Logo.png",
-    	"seed" : "LCS Champion"
+    	"seed" : "LCS Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Liquid_Team.png",
+        "player" : "Top : Impact\nJungle : Xmithie\nMid : Jensen\nADC : Doublelift\nSupport : CoreJJ"
     },
     {
     	"id" : "Cloud 9",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/C9_Logo.png",
-    	"seed" : "2nd seed from LCS"
+    	"seed" : "2nd seed from LCS",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/C9_Team.png",
+        "player" : "Top : Licorice\nJungle : Svenskeren\nMid : Nisqy\nADC : Sneaky\nSupport : Zeyzal"
     },
     {
     	"id" : "Clutch Gaming",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Clutch_Logo.png",
-    	"seed" : "3rd seed from LCS"
+    	"seed" : "3rd seed from LCS",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/Clutch_Team.jpg",
+        "player" : "Top : Huni\nJungle : Lira\nMid : Damonte\nADC : CodySun\nSupport : Vulcan"
     },
     {
     	"id" : "J Team",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/J_Logo.png",
-    	"seed" : "LMS Champion"
+    	"seed" : "LMS Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/J_Team.png",
+        "player" : "Top : Rest\nJungle : Hana\nMid : Fofo\nADC : Lilv\nSupport : Koala"
     },
     {
     	"id" : "AHQ",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/AHQ_Logo.png",
-    	"seed" : "2nd seed from LMS"
+    	"seed" : "2nd seed from LMS",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/AHQ_Team.png",
+        "player" : "Top : Ziv\nJungle : Alex\nMid : Rainbow\nADC : Wako\nSupport : Ysera"
     },
     {
     	"id" : "Hong Kong Attitude",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/HKA_Logo.png",
-    	"seed" : "3rd seed from LMS"
+    	"seed" : "3rd seed from LMS",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/HKA_Team.jpg",
+        "player" : "Top : 3z\nJungle : Crash\nMid : M1ssion\nADC : Unified\nSupport : Kaiwing"
     },
     {
     	"id" : "GAM",
     	"logo" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/GAM_Logo.png",
-    	"seed" : "VCS Champion"
+    	"seed" : "VCS Champion",
+    	"team" : "https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/GAM_Team.png",
+        "player" : "Top : Zeros\nJungle : Levi\nMid : Kiaya\nADC : Zin\nSupport : Slay"
     }
 ]
 
